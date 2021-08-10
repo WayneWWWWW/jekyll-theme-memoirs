@@ -6,6 +6,7 @@ categories: [ Lifestyle ]
 image: assets/images/3.jpg
 beforetoc: "龙环葡韵"
 authorbox: disabled
+comments: false
 
 toc: false
 ---
