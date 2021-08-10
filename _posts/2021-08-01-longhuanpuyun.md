@@ -3,9 +3,9 @@ layout: post
 title:  "龙环葡韵里的我"
 categories: [ Lifestyle ]
 image: assets/images/3.jpg
-beforetoc: "龙环葡韵"
+beforetoc: "龙环葡韵里的我"
 comments: false
-
+author: wayne
 toc: false
 ---
   
