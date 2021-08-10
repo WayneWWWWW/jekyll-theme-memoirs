@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "龙环葡韵里的我"
-author: john
+author: Wayne
 categories: [ Lifestyle ]
 image: assets/images/3.jpg
 beforetoc: "龙环葡韵"
