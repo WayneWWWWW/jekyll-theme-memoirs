@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "龙环葡韵里的我"
-author: sal
+<!-- author: sal -->
 categories: [ Lifestyle ]
 image: assets/images/3.jpg
 beforetoc: "龙环葡韵"
-authorbox: disabled
+<!-- authorbox: disabled -->
 comments: false
 
 toc: false
