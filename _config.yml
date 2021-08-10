@@ -22,6 +22,12 @@ authors:
     email: 11812709@mail.sustech.edu.cn
     web: https://waynewwwww.github.io/
     description: "Nice to meet you! Jing LIU."
+  
+  jingliu:
+    name: JingLiu
+    display_name: JingLiu
+    avatar: 'assets/images/avatar-jingliu.png'
+    description: "What? Why am I here?"
 
   # sal:
   #   name: Sal
