@@ -5,7 +5,7 @@ author: john
 categories: [ Lifestyle ]
 image: assets/images/3.jpg
 beforetoc: "龙环葡韵"
-toc: true
+toc: false
 ---
   
 笑得比较自然的一张照片！
