@@ -3,7 +3,7 @@ layout: page
 title: 回忆 
 permalink: /about
 comments: false
-image: assets/images/screenshot.jpg
+<!-- image: assets/images/screenshot.jpg -->
 imageshadow: true
 ---
   
