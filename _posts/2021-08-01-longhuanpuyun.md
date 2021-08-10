@@ -5,7 +5,7 @@ categories: [ Lifestyle ]
 image: assets/images/3.jpg
 beforetoc: "龙环葡韵里的我"
 comments: false
-author: wayne
+author: jipengwen
 toc: false
 ---
   
