@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Education must also train one for quick, resolute and effective thinking."
+title:  "龙环葡韵里的我"
 author: john
 categories: [ Lifestyle ]
 image: assets/images/3.jpg
