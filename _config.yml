@@ -14,6 +14,16 @@ email: wowthemesnet@gmail.com
 
 # Authors
 authors:
+
+  wayne:
+    name: Wayne
+    display_name: Wayne    
+    avatar: 'assets/images/avatar-wayne.png'
+    email: 11812709@mail.sustech.edu.cn
+    web: https://waynewwwww.github.io/
+    description: "Nice to meet you! Jing LIU."
+
+
   sal:
     name: Sal
     display_name: Sal
