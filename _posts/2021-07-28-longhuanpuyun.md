@@ -1,13 +1,14 @@
 ---
 layout: post
-title:  "龙环葡韵里的我"
-categories: [ Lifestyle ]
-image: assets/images/3.jpg
-beforetoc: "龙环葡韵里的我"
-comments: false
+title:  "龙环葡韵里的合照"
 author: jipengwen
+categories: [ Travel]
+tags: [Macao]
+<!-- rating: 4.5 -->
+image: assets/images/23.jpg
+description: "Macao trip is an important part of our lives!"
+beforetoc: "Macao trip is an important part of our lives!"
 toc: false
 ---
-  
-笑得比较自然的一张照片！
-~
+
+那我走？
