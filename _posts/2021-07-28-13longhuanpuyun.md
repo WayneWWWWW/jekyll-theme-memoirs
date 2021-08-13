@@ -6,6 +6,7 @@ categories: [ Travel]
 tags: [Macao]
 <!-- rating: 4.5 -->
 image: assets/images/13.jpg
+comments: false
 description: "Macao trip is an important part of our lives!"
 beforetoc: "Macao trip is an important part of our lives!"
 toc: false
