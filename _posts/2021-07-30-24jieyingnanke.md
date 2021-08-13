@@ -11,4 +11,4 @@ beforetoc: "Macao trip is an important part of our lives!"
 toc: false
 ---
 
-因为疫情,早到的结营晚会~
+领奖啦~
